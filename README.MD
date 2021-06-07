@@ -1,4 +1,8 @@
 # FRONTEND
+- [x] Flutter web interface windows xp
+- [x] Contacts application inside the website 
+
+
 https://user-images.githubusercontent.com/50497092/120956423-e38a2480-c729-11eb-8c8d-1931f107b961.mp4
 
 
